@@ -111,6 +111,7 @@ export default function Example() {
         <h2>
           {/* For fbt common strings, the description will be sourced from an external manifest.
           See `--fbt-common-path` option from `fbt-collect` and common_strings.json */}
+          {/* @ts-expect-error Fix fbt types */}
           <fbt common>Use the form below to see FBT in action.</fbt>
         </h2>
         <form action="" method="get" onSubmit={onSubmit}>
@@ -202,6 +203,7 @@ export default function Example() {
             <div className="sentence ">
               <span>
                 <fbt desc="example 1">
+                  {/* @ts-expect-error Fix fbt types */}
                   <fbt:param gender={state.ex1Gender} name="name">
                     <b className="padRight">{state.ex1Name}</b>
                   </fbt:param>
