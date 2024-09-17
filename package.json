@@ -1,0 +1,49 @@
+{
+  "name": "fbt-vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "pnpm fbt && pnpm vite",
+    "build": "pnpm fbt && tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "fbt:clean": "rm .enum_manifest.json .src_manifest.json .source_strings.json src/translatedFbts.json .test_*.json 2&> /dev/null || exit 0",
+    "fbt:manifest": "fbt-manifest --src src",
+    "fbt:collect": "fbt-collect --presets @babel/preset-typescript --fbt-common-path ./common_strings.json --pretty --manifest < .src_manifest.json > .source_strings.json",
+    "fbt:translate": "fbt-translate --translations translations/*.json --jenkins > src/translatedFbts.json",
+    "fbt": "pnpm fbt:clean && pnpm fbt:manifest && pnpm fbt:collect && pnpm fbt:translate"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "fbt": "^1.0.2",
+    "object-assign": "^4.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.6",
+    "@babel/preset-typescript": "^7.24.7",
+    "@eslint/js": "^9.9.0",
+    "@fbtjs/default-collection-transform": "^1.0.0",
+    "@types/fbt": "^1.0.5",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "babel-plugin-fbt": "^1.0.0",
+    "babel-plugin-fbt-runtime": "^1.0.0",
+    "eslint": "^9.9.0",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.9",
+    "globals": "^15.9.0",
+    "graceful-fs": "^4.2.11",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^8.0.1",
+    "vite": "^5.4.1"
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "babel-plugin-fbt@1.0.0": "patches/babel-plugin-fbt@1.0.0.patch"
+    }
+  }
+}

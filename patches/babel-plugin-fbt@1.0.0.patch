@@ -1,0 +1,15 @@
+diff --git a/dist/bin/manifestUtils.js b/dist/bin/manifestUtils.js
+index 894e8e3f6d4e872b0067203e96478cc9cd25167d..83eb9689d5b65690d28ff96645ef91c33d5dbd76 100644
+--- a/dist/bin/manifestUtils.js
++++ b/dist/bin/manifestUtils.js
+@@ -31,7 +31,9 @@ function generateManifest(enumManifestPath, srcPaths, cwd = process.cwd()) {
+   require('@babel/register')({
+     // Ensure babel resolves paths relative to our package directory so the
+     // plugins can always be resolved to this node_modules directory.
+-    cwd: path.resolve(__dirname, '../'),
++    cwd,
++    extensions: ['.js','.jsx','.ts','.tsx'],
++    presets: ['@babel/preset-typescript'],
+     plugins: ['@babel/plugin-syntax-object-rest-spread', '@babel/plugin-transform-flow-strip-types', '@babel/plugin-transform-modules-commonjs']
+   }); // Find enum files
+ 

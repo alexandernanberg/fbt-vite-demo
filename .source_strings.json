@@ -1,0 +1,1077 @@
+{
+ "phrases": [
+  {
+   "hashToLeaf": {
+    "f9df2DVor1ccX0uzZbuDVQ==": {
+     "text": "Your FBT Demo",
+     "desc": "title"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 106,
+   "col_beg": 10,
+   "line_end": 106,
+   "col_end": 47,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "title",
+     "text": "Your FBT Demo"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "PvA+AsZdpZXw81g/J3Ow0Q==": {
+     "text": "Construct sentences",
+     "desc": "header"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 109,
+   "col_beg": 10,
+   "line_end": 109,
+   "col_end": 54,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "header",
+     "text": "Construct sentences"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "2TyGkzVNJtXrFsOOeLJHmg==": {
+     "text": "Use the form below to see FBT in action.",
+     "desc": "Header title"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 114,
+   "col_beg": 10,
+   "line_end": 114,
+   "col_end": 68,
+   "common": true,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Header title",
+     "text": "Use the form below to see FBT in action."
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "HusiL84DARy+8jiK7kc7qg==": {
+     "text": "Your Gender:",
+     "desc": "Gender Select label"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 129,
+   "col_beg": 20,
+   "line_end": 129,
+   "col_end": 70,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Gender Select label",
+     "text": "Your Gender:"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "aRgFYYwtEkSHmVCxJMiHQQ==": {
+     "text": "Unknown",
+     "desc": "Unknown gender"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 132,
+   "col_beg": 20,
+   "line_end": 132,
+   "col_end": 60,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Unknown gender",
+     "text": "Unknown"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "ljoRgg3SRs0vzbkgFv1tSA==": {
+     "text": "Male",
+     "desc": "Male gender"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 135,
+   "col_beg": 20,
+   "line_end": 135,
+   "col_end": 54,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Male gender",
+     "text": "Male"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "gAWLgPJCoT4RWZyEUmFM+A==": {
+     "text": "Female",
+     "desc": "Female gender"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 138,
+   "col_beg": 20,
+   "line_end": 138,
+   "col_end": 58,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Female gender",
+     "text": "Female"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "JBhJwfCe2TutVvTr9c9HLw==": {
+     "text": "name",
+     "desc": "name field"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 156,
+   "col_beg": 31,
+   "line_end": 156,
+   "col_end": 56,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "name field",
+     "text": "name"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "K4iveOd+Z8ZNF2cfxBO+kw==": {
+     "text": "count",
+     "desc": "count field"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 170,
+   "col_beg": 31,
+   "line_end": 170,
+   "col_end": 58,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "count field",
+     "text": "count"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "DFDZjshVSmmTwi62nfXNfQ==": {
+     "text": "Gender:",
+     "desc": "Gender Select label"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 185,
+   "col_beg": 20,
+   "line_end": 185,
+   "col_end": 65,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Gender Select label",
+     "text": "Gender:"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "aRgFYYwtEkSHmVCxJMiHQQ==": {
+     "text": "Unknown",
+     "desc": "Unknown gender"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 188,
+   "col_beg": 20,
+   "line_end": 188,
+   "col_end": 60,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Unknown gender",
+     "text": "Unknown"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "ljoRgg3SRs0vzbkgFv1tSA==": {
+     "text": "Male",
+     "desc": "Male gender"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 191,
+   "col_beg": 20,
+   "line_end": 191,
+   "col_end": 54,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Male gender",
+     "text": "Male"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "gAWLgPJCoT4RWZyEUmFM+A==": {
+     "text": "Female",
+     "desc": "Female gender"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 194,
+   "col_beg": 20,
+   "line_end": 194,
+   "col_end": 58,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Female gender",
+     "text": "Female"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "gVKMc/8jq5vnYR5v2bb32g==": {
+     "text": "{name} has shared {=[number] photos} with you",
+     "desc": "example 1"
+    },
+    "PqPPir8Kg9xSlqdednPFOg==": {
+     "text": "{name} has shared {=a photo} with you",
+     "desc": "example 1"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 203,
+   "col_beg": 14,
+   "line_end": 218,
+   "col_end": 20,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "*": {
+      "*": {
+       "desc": "example 1",
+       "text": "{name} has shared {=[number] photos} with you",
+       "tokenAliases": {
+        "=[number] photos": "=m2"
+       }
+      },
+      "_1": {
+       "desc": "example 1",
+       "text": "{name} has shared {=a photo} with you",
+       "tokenAliases": {
+        "=a photo": "=m2"
+       }
+      }
+     }
+    },
+    "m": [
+     {
+      "token": "name",
+      "type": 1
+     },
+     {
+      "token": "number",
+      "type": 2,
+      "singular": true
+     }
+    ]
+   }
+  },
+  {
+   "hashToLeaf": {
+    "tYYOLLMbffdJQQlSVEVv/A==": {
+     "text": "{number} photos",
+     "desc": "In the phrase: \"{name} has shared {=[number] photos} with you\""
+    },
+    "Q9mOAQ+ogHG20z2QkEkNmQ==": {
+     "text": "a photo",
+     "desc": "In the phrase: \"{name} has shared {=a photo} with you\""
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 208,
+   "col_beg": 16,
+   "line_end": 216,
+   "col_end": 20,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "*": {
+      "*": {
+       "desc": "In the phrase: \"{name} has shared {=[number] photos} with you\"",
+       "text": "{number} photos"
+      },
+      "_1": {
+       "desc": "In the phrase: \"{name} has shared {=a photo} with you\"",
+       "text": "a photo"
+      }
+     }
+    },
+    "m": [
+     {
+      "token": "name",
+      "type": 1
+     },
+     {
+      "token": "number",
+      "type": 2,
+      "singular": true
+     }
+    ]
+   }
+  },
+  {
+   "hashToLeaf": {
+    "JBhJwfCe2TutVvTr9c9HLw==": {
+     "text": "name",
+     "desc": "name field"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 233,
+   "col_beg": 31,
+   "line_end": 233,
+   "col_end": 56,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "name field",
+     "text": "name"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "DFDZjshVSmmTwi62nfXNfQ==": {
+     "text": "Gender:",
+     "desc": "Gender Select label"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 265,
+   "col_beg": 20,
+   "line_end": 265,
+   "col_end": 65,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Gender Select label",
+     "text": "Gender:"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "CcRrycO18VroWvGAcg0u7w==": {
+     "text": "Not a person",
+     "desc": "Gender Select label"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 268,
+   "col_beg": 20,
+   "line_end": 268,
+   "col_end": 70,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Gender Select label",
+     "text": "Not a person"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "+JZjqgCHObNg6jWov91o+w==": {
+     "text": "Unknown (Plural)",
+     "desc": "Gender Select label"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 271,
+   "col_beg": 20,
+   "line_end": 271,
+   "col_end": 74,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Gender Select label",
+     "text": "Unknown (Plural)"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "Pcdu2jt+bnKzFRSeBLICcQ==": {
+     "text": "Unknown (singular)",
+     "desc": "Gender Select label"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 274,
+   "col_beg": 20,
+   "line_end": 274,
+   "col_end": 76,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Gender Select label",
+     "text": "Unknown (singular)"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "+DJQa/brVSQ5ial+3ta3gg==": {
+     "text": "Male (singular)",
+     "desc": "Gender Select label"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 277,
+   "col_beg": 20,
+   "line_end": 277,
+   "col_end": 73,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Gender Select label",
+     "text": "Male (singular)"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "+jPpJbvCzEnvvfpvTTRVdg==": {
+     "text": "Female (singular)",
+     "desc": "Gender Select label"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 280,
+   "col_beg": 20,
+   "line_end": 280,
+   "col_end": 75,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Gender Select label",
+     "text": "Female (singular)"
+    },
+    "m": []
+   }
+  },
+  {
+   "hashToLeaf": {
+    "Yjqpv79V3JSE255LFP0AAA==": {
+     "text": "{name} has a link to share! {=View} her link.",
+     "desc": "Example enum & pronoun"
+    },
+    "pmznwyWXEqrG9HZwb5aGsQ==": {
+     "text": "{name} has a link to share! {=View} his link.",
+     "desc": "Example enum & pronoun"
+    },
+    "/JQB0l8rEd+B7ae/lcLlVg==": {
+     "text": "{name} has a link to share! {=View} their link.",
+     "desc": "Example enum & pronoun"
+    },
+    "fS9yqVLDDYOA627Xuxrxvw==": {
+     "text": "{name} has a page to share! {=View} her page.",
+     "desc": "Example enum & pronoun"
+    },
+    "1gXZoVTrxY6d3TSX5/KrXg==": {
+     "text": "{name} has a page to share! {=View} his page.",
+     "desc": "Example enum & pronoun"
+    },
+    "ocUjztl+ZCTxysGLukn+kw==": {
+     "text": "{name} has a page to share! {=View} their page.",
+     "desc": "Example enum & pronoun"
+    },
+    "z67lDQSKUy/LXrqrRHj3aw==": {
+     "text": "{name} has a photo to share! {=View} her photo.",
+     "desc": "Example enum & pronoun"
+    },
+    "1PKQnkF/lWmk79Tv/ys24A==": {
+     "text": "{name} has a photo to share! {=View} his photo.",
+     "desc": "Example enum & pronoun"
+    },
+    "95jC7mDsBpqzCbCA3504zw==": {
+     "text": "{name} has a photo to share! {=View} their photo.",
+     "desc": "Example enum & pronoun"
+    },
+    "7y2mltlG5nn8ihCz2AK1AQ==": {
+     "text": "{name} has a post to share! {=View} her post.",
+     "desc": "Example enum & pronoun"
+    },
+    "FT9sU8nTJmNxzV6HXQDOdA==": {
+     "text": "{name} has a post to share! {=View} his post.",
+     "desc": "Example enum & pronoun"
+    },
+    "Izavl3nyjFZGvIPhvrJYMA==": {
+     "text": "{name} has a post to share! {=View} their post.",
+     "desc": "Example enum & pronoun"
+    },
+    "9fe4WrzDx/G3g9xlON2txA==": {
+     "text": "{name} has a video to share! {=View} her video.",
+     "desc": "Example enum & pronoun"
+    },
+    "I3OyaQ+VNY1GA++1dByInA==": {
+     "text": "{name} has a video to share! {=View} his video.",
+     "desc": "Example enum & pronoun"
+    },
+    "N4hL52x52Phrk/Bzp1RkTg==": {
+     "text": "{name} has a video to share! {=View} their video.",
+     "desc": "Example enum & pronoun"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 288,
+   "col_beg": 14,
+   "line_end": 306,
+   "col_end": 20,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "LINK": {
+      "1": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a link to share! {=View} her link.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      },
+      "2": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a link to share! {=View} his link.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      },
+      "*": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a link to share! {=View} their link.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      }
+     },
+     "PAGE": {
+      "1": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a page to share! {=View} her page.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      },
+      "2": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a page to share! {=View} his page.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      },
+      "*": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a page to share! {=View} their page.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      }
+     },
+     "PHOTO": {
+      "1": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a photo to share! {=View} her photo.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      },
+      "2": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a photo to share! {=View} his photo.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      },
+      "*": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a photo to share! {=View} their photo.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      }
+     },
+     "POST": {
+      "1": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a post to share! {=View} her post.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      },
+      "2": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a post to share! {=View} his post.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      },
+      "*": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a post to share! {=View} their post.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      }
+     },
+     "VIDEO": {
+      "1": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a video to share! {=View} her video.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      },
+      "2": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a video to share! {=View} his video.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      },
+      "*": {
+       "desc": "Example enum & pronoun",
+       "text": "{name} has a video to share! {=View} their video.",
+       "tokenAliases": {
+        "=View": "=m5"
+       }
+      }
+     }
+    },
+    "m": [
+     null,
+     null
+    ]
+   }
+  },
+  {
+   "hashToLeaf": {
+    "+Owe0R1Wgj++SFlrgb3vIg==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a link to share! {=View} her link.\""
+    },
+    "q1N+TrH4hB6rKcUCIvn0LA==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a link to share! {=View} his link.\""
+    },
+    "SstLBRSU3v7yXGZsOxZjfA==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a link to share! {=View} their link.\""
+    },
+    "Fh9O2R9Ecm7yAu9A3DkE9Q==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a page to share! {=View} her page.\""
+    },
+    "FAiBPkgSJICLgZnkc2PE1g==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a page to share! {=View} his page.\""
+    },
+    "+GIAo9dvEfv5V1574993kQ==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a page to share! {=View} their page.\""
+    },
+    "zNiUtG0pPyYDiWhQhd8m5g==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a photo to share! {=View} her photo.\""
+    },
+    "QmD55w5xaIZyL7KH6IiL/g==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a photo to share! {=View} his photo.\""
+    },
+    "kFRDiDKN3KACFyC0YzbdDg==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a photo to share! {=View} their photo.\""
+    },
+    "U/ajWfEsN4CQrHpGY/vrjg==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a post to share! {=View} her post.\""
+    },
+    "dM0FrjIfxfJN9ssJ+3KuiA==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a post to share! {=View} his post.\""
+    },
+    "MV5PidWM4Z+cPo0rqGfplA==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a post to share! {=View} their post.\""
+    },
+    "GZrheYAXDr0g8K9k2uDWKA==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a video to share! {=View} her video.\""
+    },
+    "UdOsPgT8LuNeE+cmSqU8hw==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a video to share! {=View} his video.\""
+    },
+    "D87XJZSHjYQzRdfgvXwPMg==": {
+     "text": "{=View}",
+     "desc": "In the phrase: \"{name} has a video to share! {=View} their video.\""
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 297,
+   "col_beg": 16,
+   "line_end": 299,
+   "col_end": 20,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "LINK": {
+      "1": {
+       "desc": "In the phrase: \"{name} has a link to share! {=View} her link.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      },
+      "2": {
+       "desc": "In the phrase: \"{name} has a link to share! {=View} his link.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      },
+      "*": {
+       "desc": "In the phrase: \"{name} has a link to share! {=View} their link.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      }
+     },
+     "PAGE": {
+      "1": {
+       "desc": "In the phrase: \"{name} has a page to share! {=View} her page.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      },
+      "2": {
+       "desc": "In the phrase: \"{name} has a page to share! {=View} his page.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      },
+      "*": {
+       "desc": "In the phrase: \"{name} has a page to share! {=View} their page.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      }
+     },
+     "PHOTO": {
+      "1": {
+       "desc": "In the phrase: \"{name} has a photo to share! {=View} her photo.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      },
+      "2": {
+       "desc": "In the phrase: \"{name} has a photo to share! {=View} his photo.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      },
+      "*": {
+       "desc": "In the phrase: \"{name} has a photo to share! {=View} their photo.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      }
+     },
+     "POST": {
+      "1": {
+       "desc": "In the phrase: \"{name} has a post to share! {=View} her post.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      },
+      "2": {
+       "desc": "In the phrase: \"{name} has a post to share! {=View} his post.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      },
+      "*": {
+       "desc": "In the phrase: \"{name} has a post to share! {=View} their post.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      }
+     },
+     "VIDEO": {
+      "1": {
+       "desc": "In the phrase: \"{name} has a video to share! {=View} her video.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      },
+      "2": {
+       "desc": "In the phrase: \"{name} has a video to share! {=View} his video.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      },
+      "*": {
+       "desc": "In the phrase: \"{name} has a video to share! {=View} their video.\"",
+       "text": "{=View}",
+       "tokenAliases": {
+        "=View": "=m1"
+       }
+      }
+     }
+    },
+    "m": [
+     null,
+     null
+    ]
+   }
+  },
+  {
+   "hashToLeaf": {
+    "kWoh+a8Q6EYN5VFiM40S7g==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a link to share! {=View} her link.\""
+    },
+    "HYOiaHtMv4SZkQ1G4kJzXg==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a link to share! {=View} his link.\""
+    },
+    "vC7YhdaCftXBXQ/fitVzXw==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a link to share! {=View} their link.\""
+    },
+    "2g/nu1wXuAprwkG0x4g2Sg==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a page to share! {=View} her page.\""
+    },
+    "WTvjwq3MRRlwqCfYcX7mPw==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a page to share! {=View} his page.\""
+    },
+    "PY1wTdwttmhzWyQcxs2pjw==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a page to share! {=View} their page.\""
+    },
+    "kyOdXxi5Nw1ONx5Mv5NR0Q==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a photo to share! {=View} her photo.\""
+    },
+    "0V7ZnHNmh24KOTMXet6egA==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a photo to share! {=View} his photo.\""
+    },
+    "sN74Xit9wwCnSYYz1TrF0w==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a photo to share! {=View} their photo.\""
+    },
+    "62QihzloOzTvYfmN4kGi1g==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a post to share! {=View} her post.\""
+    },
+    "pb4CFZWkRPo5gG05ZpMq+A==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a post to share! {=View} his post.\""
+    },
+    "xV4+VPr3bTc8rxKqq1nvqw==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a post to share! {=View} their post.\""
+    },
+    "8K2CwVTkZPiVRBcu2gFh4A==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a video to share! {=View} her video.\""
+    },
+    "HtVslFb7gTHOErVosGI4JQ==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a video to share! {=View} his video.\""
+    },
+    "NZayMjBYVOrnk/YJIHEeMw==": {
+     "text": "View",
+     "desc": "In the phrase: \"{name} has a video to share! {=View} their video.\""
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 298,
+   "col_beg": 18,
+   "line_end": 298,
+   "col_end": 38,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "LINK": {
+      "1": {
+       "desc": "In the phrase: \"{name} has a link to share! {=View} her link.\"",
+       "text": "View"
+      },
+      "2": {
+       "desc": "In the phrase: \"{name} has a link to share! {=View} his link.\"",
+       "text": "View"
+      },
+      "*": {
+       "desc": "In the phrase: \"{name} has a link to share! {=View} their link.\"",
+       "text": "View"
+      }
+     },
+     "PAGE": {
+      "1": {
+       "desc": "In the phrase: \"{name} has a page to share! {=View} her page.\"",
+       "text": "View"
+      },
+      "2": {
+       "desc": "In the phrase: \"{name} has a page to share! {=View} his page.\"",
+       "text": "View"
+      },
+      "*": {
+       "desc": "In the phrase: \"{name} has a page to share! {=View} their page.\"",
+       "text": "View"
+      }
+     },
+     "PHOTO": {
+      "1": {
+       "desc": "In the phrase: \"{name} has a photo to share! {=View} her photo.\"",
+       "text": "View"
+      },
+      "2": {
+       "desc": "In the phrase: \"{name} has a photo to share! {=View} his photo.\"",
+       "text": "View"
+      },
+      "*": {
+       "desc": "In the phrase: \"{name} has a photo to share! {=View} their photo.\"",
+       "text": "View"
+      }
+     },
+     "POST": {
+      "1": {
+       "desc": "In the phrase: \"{name} has a post to share! {=View} her post.\"",
+       "text": "View"
+      },
+      "2": {
+       "desc": "In the phrase: \"{name} has a post to share! {=View} his post.\"",
+       "text": "View"
+      },
+      "*": {
+       "desc": "In the phrase: \"{name} has a post to share! {=View} their post.\"",
+       "text": "View"
+      }
+     },
+     "VIDEO": {
+      "1": {
+       "desc": "In the phrase: \"{name} has a video to share! {=View} her video.\"",
+       "text": "View"
+      },
+      "2": {
+       "desc": "In the phrase: \"{name} has a video to share! {=View} his video.\"",
+       "text": "View"
+      },
+      "*": {
+       "desc": "In the phrase: \"{name} has a video to share! {=View} their video.\"",
+       "text": "View"
+      }
+     }
+    },
+    "m": [
+     null,
+     null
+    ]
+   }
+  },
+  {
+   "hashToLeaf": {
+    "AqPBSvlIt0d3coakQBEMpg==": {
+     "text": "Try it out!",
+     "desc": "Sign up button"
+    }
+   },
+   "filepath": "src/App.tsx",
+   "line_beg": 318,
+   "col_beg": 17,
+   "line_end": 318,
+   "col_end": 53,
+   "project": "",
+   "jsfbt": {
+    "t": {
+     "desc": "Sign up button",
+     "text": "Try it out!"
+    },
+    "m": []
+   }
+  }
+ ],
+ "childParentMappings": {
+  "14": 13,
+  "23": 22,
+  "24": 23
+ }
+}
