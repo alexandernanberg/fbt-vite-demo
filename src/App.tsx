@@ -205,7 +205,7 @@ export default function Example() {
                 <fbt desc="example 1">
                   {/* @ts-expect-error Fix fbt types */}
                   <fbt:param gender={state.ex1Gender} name="name">
-                    <b className="padRight">{state.ex1Name}</b>
+                    <b>{state.ex1Name}</b>
                   </fbt:param>
                   has shared
                   <a className="neatoLink" href="#">
@@ -292,14 +292,14 @@ export default function Example() {
               <span>
                 <fbt desc="Example enum & pronoun">
                   <fbt:param name="name">
-                    <b className="padRight">
+                    <b>
                       <a href="#">{state.ex2Name}</a>
                     </b>
                   </fbt:param>
                   has a
                   <fbt:enum enum-range={ExampleEnum} value={state.ex2Object} />
                   to share!{" "}
-                  <b className="pad">
+                  <b>
                     <a href="#">View</a>
                   </b>{" "}
                   <fbt:pronoun
