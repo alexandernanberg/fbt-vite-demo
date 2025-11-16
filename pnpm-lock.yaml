@@ -6,7 +6,7 @@ settings:
 
 patchedDependencies:
   babel-plugin-fbt@1.0.0:
-    hash: a774wxpuvs3iqpfe4ik2xtbpdy
+    hash: 5ba0c9a1eacb3905724517ebfa6dc2b2486f48b7858447a87292adb1c81e5abc
     path: patches/babel-plugin-fbt@1.0.0.patch
 
 importers:
@@ -18,7 +18,7 @@ importers:
         version: 2.1.1
       fbt:
         specifier: ^1.0.2
-        version: 1.0.2(babel-plugin-fbt-runtime@1.0.0(babel-plugin-fbt@1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0)))(babel-plugin-fbt@1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0))(react@18.3.1)
+        version: 1.0.2(babel-plugin-fbt-runtime@1.0.0(babel-plugin-fbt@1.0.0))(babel-plugin-fbt@1.0.0)(react@18.3.1)
       object-assign:
         specifier: ^4.1.1
         version: 4.1.1
@@ -55,10 +55,10 @@ importers:
         version: 4.3.1(vite@5.4.6)
       babel-plugin-fbt:
         specifier: ^1.0.0
-        version: 1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0)
+        version: 1.0.0(patch_hash=5ba0c9a1eacb3905724517ebfa6dc2b2486f48b7858447a87292adb1c81e5abc)(@fbtjs/default-collection-transform@1.0.0)
       babel-plugin-fbt-runtime:
         specifier: ^1.0.0
-        version: 1.0.0(babel-plugin-fbt@1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0))
+        version: 1.0.0(babel-plugin-fbt@1.0.0)
       eslint:
         specifier: ^9.9.0
         version: 9.10.0
@@ -1914,7 +1914,7 @@ snapshots:
       '@babel/plugin-syntax-object-rest-spread': 7.8.3(@babel/core@7.25.2)
       '@babel/plugin-syntax-optional-catch-binding': 7.8.3(@babel/core@7.25.2)
       '@babel/plugin-syntax-optional-chaining': 7.8.3(@babel/core@7.25.2)
-      babel-plugin-fbt: 1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0)
+      babel-plugin-fbt: 1.0.0(patch_hash=5ba0c9a1eacb3905724517ebfa6dc2b2486f48b7858447a87292adb1c81e5abc)(@fbtjs/default-collection-transform@1.0.0)
     transitivePeerDependencies:
       - supports-color
 
@@ -2163,15 +2163,15 @@ snapshots:
 
   argparse@2.0.1: {}
 
-  babel-plugin-fbt-runtime@1.0.0(babel-plugin-fbt@1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0)):
+  babel-plugin-fbt-runtime@1.0.0(babel-plugin-fbt@1.0.0):
     dependencies:
       '@babel/core': 7.25.2
-      babel-plugin-fbt: 1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0)
+      babel-plugin-fbt: 1.0.0(patch_hash=5ba0c9a1eacb3905724517ebfa6dc2b2486f48b7858447a87292adb1c81e5abc)(@fbtjs/default-collection-transform@1.0.0)
       invariant: 2.2.4
     transitivePeerDependencies:
       - supports-color
 
-  babel-plugin-fbt@1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0):
+  babel-plugin-fbt@1.0.0(patch_hash=5ba0c9a1eacb3905724517ebfa6dc2b2486f48b7858447a87292adb1c81e5abc)(@fbtjs/default-collection-transform@1.0.0):
     dependencies:
       '@babel/core': 7.25.2
       '@babel/generator': 7.25.6
@@ -2459,10 +2459,10 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  fbt@1.0.2(babel-plugin-fbt-runtime@1.0.0(babel-plugin-fbt@1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0)))(babel-plugin-fbt@1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0))(react@18.3.1):
+  fbt@1.0.2(babel-plugin-fbt-runtime@1.0.0(babel-plugin-fbt@1.0.0))(babel-plugin-fbt@1.0.0)(react@18.3.1):
     dependencies:
-      babel-plugin-fbt: 1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0)
-      babel-plugin-fbt-runtime: 1.0.0(babel-plugin-fbt@1.0.0(patch_hash=a774wxpuvs3iqpfe4ik2xtbpdy)(@fbtjs/default-collection-transform@1.0.0))
+      babel-plugin-fbt: 1.0.0(patch_hash=5ba0c9a1eacb3905724517ebfa6dc2b2486f48b7858447a87292adb1c81e5abc)(@fbtjs/default-collection-transform@1.0.0)
+      babel-plugin-fbt-runtime: 1.0.0(babel-plugin-fbt@1.0.0)
       invariant: 2.2.4
       react: 18.3.1
 
